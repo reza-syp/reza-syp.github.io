@@ -89,7 +89,7 @@ header {
 }
 
 .product-content .product-box .img-box img {
-    width: 10%;
+    width: 100%;
     height: auto;
 }
 
@@ -97,7 +97,7 @@ header {
     .product-content {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
+        gap: 16px;
     }
 }
 
