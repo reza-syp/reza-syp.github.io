@@ -104,7 +104,7 @@ header {
 .product-box .price-and-cart {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: end;
 }
 
 .price-and-cart .add-cart {
